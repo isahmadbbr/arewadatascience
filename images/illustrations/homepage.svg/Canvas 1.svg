@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-237 111 820 331" width="820" height="331">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.18.1\n2021-02-02 17:34:15 +0000</metadata>
+  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_9">
+        <path d="M -228 111 L 573.939 111 C 578.9095 111 582.939 115.02944 582.939 120 L 582.939 433 C 582.939 437.97056 578.9095 442 573.939 442 L -228 442 C -232.97056 442 -237 437.97056 -237 433 L -237 120 C -237 115.02944 -232.97056 111 -228 111 Z" fill="white"/>
+      </g>
+      <g id="Graphic_3">
+        <rect x="172.93897" y="203" width="215.96244" height="92" id="path"/>
+        <clipPath id="clip_path">
+          <use xl:href="#path"/>
+        </clipPath>
+        <g clip-path="url(#clip_path)">
+          <image xl:href="image1.png" width="1e3" height="426" transform="translate(172.93897 203) scale(.21596244)"/>
+        </g>
+      </g>
+      <g id="Graphic_6">
+        <rect x="172.93897" y="121" width="215.96244" height="65.30293" id="path_2"/>
+        <clipPath id="clip_path_2">
+          <use xl:href="#path_2"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_2)">
+          <image xl:href="image4.jpg" width="1008" height="304.8" transform="translate(172.93897 121) scale(.21424845)"/>
+        </g>
+      </g>
+      <g id="Graphic_8">
+        <rect x="-237" y="209" width="386.4" height="92" id="path_3"/>
+        <clipPath id="clip_path_3">
+          <use xl:href="#path_3"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_3)">
+          <image xl:href="image6.png" width="2100" height="500" transform="translate(-237 209) scale(.184)"/>
+        </g>
+      </g>
+      <g id="Graphic_10">
+        <rect x="-237" y="118.00313" width="386.4" height="79.996875" id="path_4"/>
+        <clipPath id="clip_path_4">
+          <use xl:href="#path_4"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_4)">
+          <image xl:href="image7.png" width="1024" height="212" transform="translate(-237 118.00313) scale(.37734375)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
