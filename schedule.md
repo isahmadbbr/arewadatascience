@@ -5,7 +5,7 @@ layout: page
 bodyClass: page-about
 ---
 
-As part of our desire and motivation to train marginalized students, **Arewa Data Science Academy** already have student mentoring programs. We offer Nigerian university students seminars on data science, machine learning and related fields. We also offer free training on weekends to affected marginalized students. This year (2023), we are offering a more structured and sreamlined training, being sponsored by **Google Research** and **HausaNLP, Bayero University Kano**. We are targeting underrepresented groups including but not limited to Women and Students from rural communities and communities affected by insecurity. 
+As part of our desire and motivation to train marginalized students, **Arewa Data Science Academy** already have student mentoring programs. We offer Nigerian university students seminars on data science, machine learning and related fields. We also offer free training on weekends to affected marginalized students. This year (2023), we are offering a more structured and sreamlined training, being sponsored by **Google Research**, **TensorFlow** and **HausaNLP, Bayero University Kano**. We are targeting underrepresented groups including but not limited to Women and Students from rural communities and communities affected by insecurity. 
 
 ----
 
