@@ -17,8 +17,8 @@
       <g id="Graphic_2">
         <path d="M 177.45453 225.00046 L 243.8158 224.9143 M 243.46247 224.5472 L 243.40425 269.3261 M 243.74977 269.0277 L 177.50936 269.09233 M 177.82024 269.5103 L 177.81194 224.6022 M 177.48574 224.94417 L 243.49324 224.87672 M 243.52458 224.51598 L 243.46066 268.9968 M 243.78104 269.013 L 177.85144 269.08757 M 177.8453 269.47905 L 177.83352 224.96875" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".5"/>
         <text transform="translate(182.81201 230)" fill="#1f1f2b">
-          <tspan font-family="Garamond" font-size="30" font-weight="700" fill="#1f1f2b" x="0" y="26">T.</tspan>
-          <tspan font-family="Garamond" font-size="30" font-weight="700" fill="#e63d35" y="26">E.</tspan>
+          <tspan font-family="Garamond" font-size="30" font-weight="700" fill="#1f1f2b" x="0" y="26">A.</tspan>
+          <tspan font-family="Garamond" font-size="30" font-weight="700" fill="#e63d35" y="26">D.</tspan>
         </text>
       </g>
     </g>
