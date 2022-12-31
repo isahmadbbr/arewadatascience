@@ -1,14 +1,14 @@
 ---
-title: Tri-State Explore Computer Science Research (ExploreCSR)
+title: Arewa Data Science Fellowship
 layout: home
-description: Sponsored by Google Research, Fordham, UConn and Stevens provide opportunities to explore computer science research.
+description: The fellwoship is sponsored by Google Research and HausaNLP, Bayero University Kano.
 intro_image: "images/illustrations/homepage.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# 2021 Tri-State ExploreCSR
+# 2022 Arewa Data Science Fellowship
 
-Sponsored by Google Research, Fordham University, University of Connecticut and Stevens Institute of Technology provide opportunities to explore computer science research from February 22nd to April 23rd 2021.
+The fellwoship is sponsored by Google Research and HausaNLP, Bayero University Kano. 
 
 <span style="color:red">The program has started.</span>
