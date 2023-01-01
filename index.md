@@ -13,4 +13,4 @@ The Arewa Data Science fellowship (ADSF) provides an opportunity to learn from d
 
 ---
 
-<span style="color:red">The program will on the second week of February.</span>
+<span style="color:red">The program will commence on the second week of January.</span>
