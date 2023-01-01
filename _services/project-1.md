@@ -6,9 +6,9 @@ weight: 1
 layout: service
 ---
 
-**Faculty Mentor: Saminu Muhammad Aliyu (Bayero University Kano)**
+**Faculty Mentor: Saminu Muhammad Aliyu (BUK)**
 
-Hate speech detection in low resourse languages
+Hate speech detection in low resource languages
 
 
 ## Learning and Research Objectives
