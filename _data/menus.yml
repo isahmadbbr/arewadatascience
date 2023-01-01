@@ -1,5 +1,5 @@
 main:
-  - name: "Team"
+  - name: "Mentors"
     url: "/team/"
     weight: 2
   - name: "Projects"
@@ -11,9 +11,11 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-
+- name: "Contact"
+    url: "/contact/"
+    weight: 5
 footer:
-  - name: "Team"
+  - name: "Mentors"
     url: "/team/"
     weight: 2
   - name: "Projects"
@@ -25,3 +27,6 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
+- name: "Contact"
+    url: "/contact/"
+    weight: 5
