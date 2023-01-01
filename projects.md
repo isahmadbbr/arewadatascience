@@ -11,4 +11,4 @@ intro_image_hide_on_mobile: false
 *Learn by doing. Theory is nice, but nothing replaces actual experience. -Tony Hsieh*
 
 
-Faculty mentors from Universities across Nigeria and beyond will guide fellows to undergo interesting projects on data science and machine learning depending on experience and background. 
+Faculty mentors from Universities across Nigeria and beyond will guide fellows to undergo interesting projects on datascience and machine learning depending on experience and background. 
