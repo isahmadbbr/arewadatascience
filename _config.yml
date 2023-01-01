@@ -1,7 +1,7 @@
 baseurl: 'arewadatascience'
 exclude: ['README.md']
 permalink: pretty
-title: 'ArewaDS ExploreCSR Fellowship'
+title: 'ArewaDS Fellowship'
 
 #google_analytics_id: ""
 homepage:
