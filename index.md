@@ -7,7 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# 2022 Arewa Data Science Fellowship
+# 2022 ArewaDS Fellowship
 
 The Arewa Data Science fellowship (ADSF) provides an opportunity to learn from data scientists and machine learning experts. The fellowship is a 16-week-long free training that provides a hands-on approach to data science, machine learning and deep learning. 
 
